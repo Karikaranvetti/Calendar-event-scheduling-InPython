@@ -1,0 +1,69 @@
+calendar loaded
+added
+added
+added
+added
+added
+added
+added
+added
+2017-10-21
+	start : 09.00
+	end : 10.00
+	title : budget meeting
+2017-10-22
+	start : 06.00
+	end : 07.00
+	title : go to the gym
+2017-10-23
+	start : 05.00
+	end : 06.00
+	title : go to the gym
+2017-10-29
+	start : 07.00
+	end : 08.00
+	title : Get salad stuff,lettuce, red peppers, green peppers
+2017-11-01
+	start : 15.00
+	end : 16.00
+	title : Make sure to submit csc108 assignment 2
+2017-11-06
+	start : 08.00
+	end : 10.00
+	title : Term test 2 
+
+	start : 19.00
+	end : 22.00
+	title : Sid's birthday
+2017-12-02
+	start : 16.00
+	end : 17.00
+	title : Make sure to submit csc108 assignment 3
+deleted
+2015-12-03 is not a date in the calendar
+deleted
+2017-10-21
+	start : 09.00
+	end : 10.00
+	title : budget meeting
+2017-10-22
+	start : 06.00
+	end : 07.00
+	title : go to the gym
+2017-10-23
+	start : 05.00
+	end : 06.00
+	title : go to the gym
+2017-11-01
+	start : 15.00
+	end : 16.00
+	title : Make sure to submit csc108 assignment 2
+2017-11-06
+	start : 08.00
+	end : 10.00
+	title : Term test 2 
+
+	start : 19.00
+	end : 22.00
+	title : Sid's birthday
+calendar saved
